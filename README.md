@@ -20,7 +20,7 @@
 
    Release :
    
-    2020 06 25 first release
+    2020 06 27 first release
 
 
    
@@ -33,5 +33,5 @@
 
     Release :
     
-    2020 06 25 first release
+    2020 06 27 first release
 
