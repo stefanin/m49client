@@ -19,7 +19,7 @@
    Linux:
 
    Release :
-   
+    
     2020 06 27 first release
 
 
@@ -29,9 +29,10 @@
     fileTosyslog.py:
         send the file lines to a syslog server, it wait the file updates that will send to the syslog server. 
          
-               fileTosyslog.py SISLOG_SERVER_IP FILENAME
+               fileTosyslog SYSLOGSERVERIP UDPPORT(514) FILE SWITCH
 
     Release :
     
-    2020 06 27 first release
+    2020.07.27 add SWITCH -E ERROR -W WARN
+    2020.06.27 first release
 
